@@ -908,6 +908,11 @@ file = "mods/hexpose-1.0.0.jar"
 hash = "5deb2708560ca8074a6ff660c6d0086388c3fdf4728065a7b342160827977898"
 
 [[files]]
+file = "mods/hexpose.pw.toml"
+hash = "323bf5983ea44d2d276e9b589406af9af09760fe01b1b4b7b888b2a9751aa9e3"
+metafile = true
+
+[[files]]
 file = "mods/hexstruction.pw.toml"
 hash = "3b13b4ab8393dd58e08f9a51a86bfde4b720fd8590d235ad7c3387786f3b3503"
 metafile = true
@@ -973,7 +978,7 @@ metafile = true
 
 [[files]]
 file = "mods/ioticblocks.pw.toml"
-hash = "bba928c17068f79d83b893cbd1db6a1f676e48b077cae0e3533526300dbf8034"
+hash = "8c9818f035d09dd52f0b1179095467c91f2874855b52d8ae9b786cfa6c1fd2a2"
 metafile = true
 
 [[files]]
@@ -1420,6 +1425,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "6e6ab7c329eee464f5e39e7f327a148626d9aff1f74fed0020de7686d006edea"
+metafile = true
+
+[[files]]
+file = "mods/slate-works.pw.toml"
+hash = "2b4c8168e68b2342c4f900c6eb23cb1dbff964f0084bf3571ec6b347a7ea05ed"
 metafile = true
 
 [[files]]
