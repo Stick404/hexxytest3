@@ -1,0 +1,28 @@
+{
+    "ht32.category.l_trans": "Lightning Transmutation",
+    "ht32.category.l_trans.desc": "I have discovered a method to transmute various materials into other materials by allowing lightning to strike a botanist's alchemy catalyst. Theoretically this could be done without waiting for nature's whims through some sort of $(l:patterns/great_spells/weather_manip)great spell./$",
+
+    "ht32.entry.cmy_crystals": "CMY crystals",
+    "ht32.page.cmy_crystals/topaz": "Topaz",
+    "ht32.page.cmy_crystals/topaz.text": "Becomes Amethyst",
+    "ht32.page.cmy_crystals/amethyst": "Amethyst",
+    "ht32.page.cmy_crystals/amethyst.text": "Becomes Citrine",
+    "ht32.page.cmy_crystals/citrine": "Citrine",
+    "ht32.page.cmy_crystals/citrine.text": "Becomes Topaz",
+    
+    "ht32.entry.ancient_wax": "Ancient Wax",
+    "ht32.page.ancient_wax/bricks": "Carvable Wax Bricks",
+    "ht32.page.ancient_wax/bricks.text": "Becomes Ancient Wax Bricks",
+    "ht32.page.ancient_wax/diamond": "Carvable Wax Diamond",
+    "ht32.page.ancient_wax/diamond.text": "Becomes Ancient Wax Diamond",
+    "ht32.page.ancient_wax/eyes": "Carvable Wax",
+    "ht32.page.ancient_wax/eyes.text": "Becomes Ancient Wax Compound Eyes",
+    
+    "ht32.entry.glass": "Glass",
+    "ht32.page.glass/sand": "Sand",
+    "ht32.page.glass/sand.text": "Becomes Yellow Stained Glass",
+    "ht32.page.glass/red_sand": "Red Sand",
+    "ht32.page.glass/red_sand.text": "Becomes Red Stained Glass",
+    "ht32.page.glass/soul_sand": "Soul Sand",
+    "ht32.page.glass/soul_sand.text": "Becomes Tinted Glass"
+}
