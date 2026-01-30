@@ -50,6 +50,6 @@
             }
         }
     },
-    "name": "Body Builder",
-    "description": "You can build more bodies for yourself. Apply a player head on a target dummy in your inventory to create a new body."
+    "name": "ht32.power.body_builder",
+    "description": "ht32.power.body_builder.desc"
 }

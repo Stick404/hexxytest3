@@ -44,6 +44,6 @@
         "comparison": ">",
         "compare_to": 0
     },
-    "name": "Emergency Swapping",
-    "description": "Upon taking fatal damage you will swap to another body, and the previous will be destroyed. If there is no body to swap to, you die."
+    "name": "ht32.power.emergency_swap",
+    "description": "ht32.power.emergency_swap.desc"
 }

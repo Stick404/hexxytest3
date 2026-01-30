@@ -31,6 +31,6 @@
         "key": "key.origins.primary_active",
         "continuous": true
     },
-    "name": "Experience Rumination",
-    "description": "You can burn experience to release media into the enviroment, and into your media holding items."
+    "name": "ht32.power.ruminate_xp",
+    "description": "ht32.power.ruminate_xp.desc"
 }

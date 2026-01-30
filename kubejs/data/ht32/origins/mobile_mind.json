@@ -10,6 +10,6 @@
     },
     "order": 9,
     "impact": 3,
-    "name": "Mobile Mind",
-    "description": "This mind is not bound to a single body, instead they may craft new ones and swap between them as they please."
+    "name": "ht32.origin.mobile_mind",
+    "description": "ht32.origin.mobile_mind.desc"
 }

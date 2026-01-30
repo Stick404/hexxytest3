@@ -12,6 +12,6 @@
             "operation": "addition"
         }
     ],
-    "name": "Scrying Eyes",
-    "description": "Your vision is altered, as though you are wearing a scrying lens."
+    "name": "ht32.power.scrying_eyes",
+    "description": "ht32.power.scrying_eyes.desc"
 }

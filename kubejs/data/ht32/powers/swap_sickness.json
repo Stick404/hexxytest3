@@ -5,6 +5,6 @@
         "value": -0.5,
         "operation": "multiply_total"
     },
-    "name": "Swapping Sickness",
-    "description": "The unanchored nature of your mind greatly reduces your health. Additionally, swapping between bodies briefly debuffs you."
+    "name": "ht32.power.swap_sickness",
+    "description": "ht32.power.swap_sickness.desc"
 }

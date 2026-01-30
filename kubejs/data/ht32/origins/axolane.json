@@ -11,6 +11,6 @@
     },
     "impact": 3,
     "order": 10,
-    "name": "Axolane",
-    "description": "A biomechanical creature, part axolotl, part plane; familiar with the waters and the skies."
+    "name": "ht32.origin.axolane",
+    "description": "ht32.origin.axolane.desc"
 }

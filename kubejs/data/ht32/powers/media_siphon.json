@@ -395,6 +395,6 @@
 		"type": "origins:status_bar_texture",
 		"texture": "origins_minus:textures/gui/no_hunger.png"
 	},
-    "name": "Media Siphon",
-    "description": "You siphon xp to restore hunger, eating regular food will cause digestive issues. Amethyst items can be consumed to replenish xp."
+    "name": "ht32.power.media_siphon",
+    "description": "ht32.power.media_siphon.desc"
 }

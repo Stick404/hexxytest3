@@ -11,6 +11,6 @@
             "power": "ht32:breathless_glide_toggle"
         }
     },
-    "name": "Variable Sweep",
-    "description": "You can glide with your wings!"
+    "name": "ht32.power.breathless_glide",
+    "description": "ht32.power.breathless_glide.desc"
 }

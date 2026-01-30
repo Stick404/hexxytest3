@@ -8,6 +8,6 @@
         "operation": "set_total",
         "value": 0
     },
-    "name": "Shock Absorbers",
-    "description": "Fall and Impact damage is nullified."
+    "name": "ht32.power.shock_absorb",
+    "description": "ht32.power.shock_absorb.desc"
 }

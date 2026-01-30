@@ -17,6 +17,6 @@
             "operation": "multiply_total"
         }
     ],
-    "name": "Vestigial Parts",
-    "description": "Your axolotl half is forever fragile, reducing your max health by two hearts. Armor is reduced by 25% and you do not benefit from armor toughness."
+    "name": "ht32.power.vestigial",
+    "description": "ht32.power.vestigial.desc"
 }

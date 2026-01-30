@@ -9,6 +9,6 @@
     },
     "order": 8,
     "impact": 3,
-    "name": "Lich",
-    "description": "A strange being made and sustained by the consumption of media."
+    "name": "ht32.origin.lich",
+    "description": "ht32.origin.lich.desc"
 }

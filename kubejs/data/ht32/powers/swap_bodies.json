@@ -5,6 +5,6 @@
         "type": "origins:execute_command",
         "command": "execute positioned ~ ~ ~ rotated ~ ~ run function ht32:swap/swap"
     },
-    "name": "Swap Bodies",
-    "description": "Relocate your mind to another random body that you control."
+    "name": "ht32.power.swap_bodies",
+    "description": "ht32.power.swap_bodies.desc"
 }
